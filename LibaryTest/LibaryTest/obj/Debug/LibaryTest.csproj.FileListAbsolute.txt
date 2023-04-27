@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\LibaryTest\LibaryTest\obj\Debug\LibaryTest.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\LibaryTest\LibaryTest\obj\Debug\LibaryTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\LibaryTest\LibaryTest\obj\Debug\LibaryTest.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\LibaryTest\LibaryTest\bin\Debug\LibaryTest.exe.config
+C:\Users\user\source\repos\LibaryTest\LibaryTest\bin\Debug\LibaryTest.exe
+C:\Users\user\source\repos\LibaryTest\LibaryTest\bin\Debug\LibaryTest.pdb
+C:\Users\user\source\repos\LibaryTest\LibaryTest\obj\Debug\LibaryTest.exe
+C:\Users\user\source\repos\LibaryTest\LibaryTest\obj\Debug\LibaryTest.pdb

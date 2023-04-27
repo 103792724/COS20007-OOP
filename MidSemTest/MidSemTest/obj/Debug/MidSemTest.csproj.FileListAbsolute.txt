@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\MidSemTest\MidSemTest\obj\Debug\MidSemTest.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\MidSemTest\MidSemTest\obj\Debug\MidSemTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\MidSemTest\MidSemTest\obj\Debug\MidSemTest.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MidSemTest\MidSemTest\bin\Debug\MidSemTest.exe.config
+C:\Users\user\source\repos\MidSemTest\MidSemTest\bin\Debug\MidSemTest.exe
+C:\Users\user\source\repos\MidSemTest\MidSemTest\bin\Debug\MidSemTest.pdb
+C:\Users\user\source\repos\MidSemTest\MidSemTest\obj\Debug\MidSemTest.exe
+C:\Users\user\source\repos\MidSemTest\MidSemTest\obj\Debug\MidSemTest.pdb

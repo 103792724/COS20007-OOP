@@ -1,0 +1,16 @@
+C:\Users\user\Downloads\3.2\obj\Debug\netcoreapp5.0\Passtask3.2.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\3.2\obj\Debug\netcoreapp5.0\Passtask3.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\3.2\obj\Debug\netcoreapp5.0\Passtask3.2.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\3.2\obj\Debug\netcoreapp5.0\Passtask3.2.AssemblyInfo.cs
+C:\Users\user\Downloads\3.2\obj\Debug\netcoreapp5.0\Passtask3.2.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\3.2\bin\Debug\netcoreapp5.0\Passtask3.2.exe
+C:\Users\user\Downloads\3.2\bin\Debug\netcoreapp5.0\Passtask3.2.deps.json
+C:\Users\user\Downloads\3.2\bin\Debug\netcoreapp5.0\Passtask3.2.runtimeconfig.json
+C:\Users\user\Downloads\3.2\bin\Debug\netcoreapp5.0\Passtask3.2.runtimeconfig.dev.json
+C:\Users\user\Downloads\3.2\bin\Debug\netcoreapp5.0\Passtask3.2.dll
+C:\Users\user\Downloads\3.2\bin\Debug\netcoreapp5.0\Passtask3.2.pdb
+C:\Users\user\Downloads\3.2\obj\Debug\netcoreapp5.0\Passtask3.2.dll
+C:\Users\user\Downloads\3.2\obj\Debug\netcoreapp5.0\refint\Passtask3.2.dll
+C:\Users\user\Downloads\3.2\obj\Debug\netcoreapp5.0\Passtask3.2.pdb
+C:\Users\user\Downloads\3.2\obj\Debug\netcoreapp5.0\Passtask3.2.genruntimeconfig.cache
+C:\Users\user\Downloads\3.2\obj\Debug\netcoreapp5.0\ref\Passtask3.2.dll
